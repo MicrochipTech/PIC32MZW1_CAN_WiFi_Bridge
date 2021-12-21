@@ -1,0 +1,14 @@
+configName: pic32mz_w1_curiosity_freertos
+folderName: pic32mz_w1_curiosity_freertos
+format_version: v1.0
+frameworkPath: ..\..\..\..\..\h3_official_gh
+processor: PIC32MZ1025W104132
+projectName: pic32mz_w1_curiosity_freertos
+settings:
+  PackageFilter: aerospace;aws_cloud;aws_cloud - Copy;aws_cloud_v3.2.0;azure-rtos-threadx;bootloader;bsp;bt;classb_sam_e5x_d5x;core;core_apps_pic32mz_ef;core_apps_pic32mz_w1;core_apps_pic32mz_w1_dev;core_apps_sam_a5d2;core_apps_sam_d21_da1;core_apps_sam_d5x_e5x;core_apps_sam_d5x_e5x_dev;crypto;cryptoauthlib;cryptoauthlib_apps;crypto_apps_encrypt_decrypt;csp;csp_apps_pic32mz_w1;ethercat;gfx;gfx_apps;micrium_ucos3;motor_control;MPLAB-Harmony-Reference-Apps;net;quick_docs;touch;touch_apps;usb;wireless_system_pic32mzw1_wfi32e01;wireless_wifi;x2c
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.7.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\PIC32MZ-W_DFP\1.4.193\atdf\PIC32MZ1025W104132.atdf
